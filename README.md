@@ -28,7 +28,7 @@ This week we are learning about more ways to look at our data. Looking at big gr
 
 1. In Canvas (canvas.pitt.edu), click on this class, CMPINF0010
 2. Go to Modules
-5. Click `Skills Lab Week 11` and click where is says `Click Here!`
+5. Click `Skills Lab Week 12` and click where is says `Click Here!`
 6. JupyterHub should open up to this week's materials!
 
 
