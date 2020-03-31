@@ -20,7 +20,7 @@ If none of these times work for you, please don't hesitate to reach out via emai
 
 ## Data Visualization 📈👀
 
-This week we are learning about more ways to look at our data. Looking at big grids of cells and numbers is not a great way to learn anything, so how can we represent it in better ways? 
+This week we are learning about more ways to look at our data. How can we represent our data in better ways than just grids of numbers?
 
 
 ## Getting Started™
