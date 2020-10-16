@@ -2,21 +2,7 @@
 
 ## Office hours
 
-If you have questions about this week's lab, reading, or lecture, ANY TA for this class can help you with any problems. That being said, only email YOUR TA at:
-
-* Dhruv - dhn11@pitt.edu
-* Rae - rac200@pitt.edu
-* Ben - bdr35@pitt.edu
-* Sean - spb60@pitt.edu
-
-If you have questions about this week's lab, reading, or lecture, ANY TA for this class can help you with any problems.
-
-Go to the [Canvas Zoom page](https://canvas.pitt.edu/courses/17074/external_tools/322) to see and join office hours. Or, click one of these direct links:
-* Monday, 2-4 — [Click here to join](https://pitt.zoom.us/j/971-420-020)
-* Tuesday, 4-5 — [Click here to join](https://pitt.zoom.us/j/592-906-507)
-* Thursday, 4-5 — [Click here to join](https://pitt.zoom.us/j/592-906-507)
-
-If none of these times work for you, please don't hesitate to reach out via email to set up another time.
+If you have questions about this week's lab, reading, or lecture, ANY TA for this class can help you with any problems. That being said, only email YOUR TA. Office hours will be held in the same place as usual. If none of these times work for you, please don't hesitate to reach out via email to set up another time.
 
 ## Data Visualization 📈👀
 
@@ -27,7 +13,7 @@ This week we are learning about more ways to look at our data. How can we repres
 
 1. In Canvas (canvas.pitt.edu), click on this class, CMPINF0010
 2. Go to Modules
-5. Click `Skills Lab Week 13` and click where is says `Click Here!`
+5. Click `Skills Lab Week 10` and click `Launch on JupyterHub`
 6. JupyterHub should open up to this week's materials!
 
 
