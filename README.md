@@ -11,10 +11,10 @@ In addition to learning about Geopandas, you'll be using this week to form final
 ## Getting Started Again™
 
 1. Log into SCI JupyterHub and start a terminal
-2. Type in `git clone https://github.com/pitt-sci-cmpinf0010/Geopandas.git` and hit the enter key
+2. Type in `git clone https://github.com/pitt-sci-cmpinf0010/Data-Visualization` and hit the enter key
 3. This should download a folder to your JupyterHub with the lab (it should be called `Geopandas`)
 4. Double click the new folder in the file explorer. You should see the lab contents.
-5. Launch the `Lab-Exercises.ipynb` notebook. You can also launch `Lab-Lesson.ipynb` if you need a refresher on what the UTA went over in the skills lab.
+5. Launch `Lab-Lesson.ipynb` notebook to review everything the UTA covered in lab section. There are no exercises that you need to complete this week.
 
 
 ### If JupyterHub doesn't work for you
@@ -23,7 +23,7 @@ Use Binder!
 
 _**Important**:_ Binder does **not** always save your work. If you need to stop working on your lab for more than 30 minutes, you need to **download** your exercises notebook to you computer. Then, you can reupload it again later to continue your work.
 
-Click here: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pitt-sci-cmpinf0010/Geopandas/HEAD)
+Click here: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pitt-sci-cmpinf0010/Data-Visualization/HEAD)
 
 ---
 
