@@ -6,8 +6,7 @@ If you have questions about this week's lab ANY TA for this class can help you.
 
 This week we are learning about more ways to look at our data. How can we represent our data in better ways than just grids of numbers?
 
-You don't need to submit anything this week. Just make sure you show up to lab, study the lab lesson, and execute all of the cells in the Lab Lesson notebook. Your UTA will mark your attendance to give you credit.
-
+In addition to learning about Geopandas, you'll be using this week to form final project groups. It is crucial that you come to your lab section in person - it will be much harder to find a group online. The group you work with on the final project does NOT need to be the same group that you worked with on past skills labs. The only constraint is that you still need to work with someone in your lab section. This is because it will be impossible to schedule presentations if we have groups that straddle multiple lab sections.
 
 ## Getting Started Again™
 
@@ -27,3 +26,10 @@ _**Important**:_ Binder does **not** always save your work. If you need to stop 
 Click here: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pitt-sci-cmpinf0010/Geopandas/HEAD)
 
 ---
+
+## Submitting your finished lab
+
+This week you don't need to submit a Jupyter notebook. Instead you just need to submit the names of your group members on Canvas.
+1. Join a group on Canvas. Here are [instructions](https://community.canvaslms.com/t5/Student-Guide/How-do-I-join-a-group-as-a-student/ta-p/468) for how to join a group. Make sure you join one of the groups called "Final Project group X". You will be using this group for your final submission, so it will save you a lot of headaches to make sure you have correctly joined the same group this week.
+2. One and only one of you needs to submit the names of your group members. Canvas will provide a text box where you can simply type in the group member names and submit. If you joined a group correctly, one submission will count for all of you.
+3. If your group does not include more than one person you will not receive any points. Collaboration is an important learning goal of the final project, and you will not be receiving any credit if you try to complete the project on your own.
